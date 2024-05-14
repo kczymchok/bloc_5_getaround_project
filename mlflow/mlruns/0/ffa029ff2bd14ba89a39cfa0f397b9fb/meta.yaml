@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kechok/Documents/Data_project/Bloc_5_PROJECT_GetAround-main/GetAround/mlflow_tracking/mlruns/0/ffa029ff2bd14ba89a39cfa0f397b9fb/artifacts
+end_time: 1715349007099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffa029ff2bd14ba89a39cfa0f397b9fb
+run_name: peaceful-hound-925
+run_uuid: ffa029ff2bd14ba89a39cfa0f397b9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715348998523
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,12 @@
+[('features_preprocessing', ColumnTransformer(transformers=[('categorical_transformer',
+                                 OneHotEncoder(drop='first'),
+                                 ['model_key', 'fuel', 'paint_color',
+                                  'car_type']),
+                                ('numerical_transformer', StandardScaler(),
+                                 ['mileage', 'engine_power']),
+                                ('binary_transformer',
+                                 FunctionTransformer(feature_names_out='one-to-one'),
+                                 ['private_parking_available', 'has_gps',
+                                  'has_air_conditioning', 'automatic_car',
+                                  'has_getaround_connect',
+                                  'has_speed_regulator', 'winter_tires'])])), ('model', LinearRegression())]

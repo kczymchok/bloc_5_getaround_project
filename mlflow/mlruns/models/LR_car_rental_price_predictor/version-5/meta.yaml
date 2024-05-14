@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715351437561
+current_stage: None
+description: null
+last_updated_timestamp: 1715351437561
+name: LR_car_rental_price_predictor
+run_id: 15f2e12a530140e49cc14f774c532272
+run_link: null
+source: file:///home/app/mlruns/886008468840540086/15f2e12a530140e49cc14f774c532272/artifacts/car_rental_price_predictor
+status: READY
+status_message: null
+storage_location: file:///home/app/mlruns/886008468840540086/15f2e12a530140e49cc14f774c532272/artifacts/car_rental_price_predictor
+user_id: null
+version: 5

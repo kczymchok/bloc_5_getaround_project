@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kechok/Documents/Data_project/Bloc_5_PROJECT_GetAround-main/GetAround/mlflow_tracking/mlruns/0/32bf01ed18e94357bf5c7438ff741e1c/artifacts
+end_time: 1715321859732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32bf01ed18e94357bf5c7438ff741e1c
+run_name: gaudy-hound-209
+run_uuid: 32bf01ed18e94357bf5c7438ff741e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715321850583
+status: 3
+tags: []
+user_id: root

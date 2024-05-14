@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kechok/Documents/Data_project/Bloc_5_PROJECT_GetAround-main/GetAround/mlflow_tracking/mlruns/0/ae53b063bf7d429bbb947e0ed3e2648b/artifacts
+end_time: 1715321434319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae53b063bf7d429bbb947e0ed3e2648b
+run_name: debonair-cod-153
+run_uuid: ae53b063bf7d429bbb947e0ed3e2648b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715321425264
+status: 3
+tags: []
+user_id: root

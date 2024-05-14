@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715321648493
+current_stage: None
+description: null
+last_updated_timestamp: 1715321648493
+name: LR_car_rental_price_predictor
+run_id: e67e4ab223e0484891f1b3f1a8120583
+run_link: null
+source: file:///Users/kechok/Documents/Data_project/Bloc_5_PROJECT_GetAround-main/GetAround/mlflow_tracking/mlruns/0/e67e4ab223e0484891f1b3f1a8120583/artifacts/car_rental_price_predictor
+status: READY
+status_message: null
+storage_location: file:///Users/kechok/Documents/Data_project/Bloc_5_PROJECT_GetAround-main/GetAround/mlflow_tracking/mlruns/0/e67e4ab223e0484891f1b3f1a8120583/artifacts/car_rental_price_predictor
+user_id: null
+version: 2

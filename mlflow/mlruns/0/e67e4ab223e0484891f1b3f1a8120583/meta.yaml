@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kechok/Documents/Data_project/Bloc_5_PROJECT_GetAround-main/GetAround/mlflow_tracking/mlruns/0/e67e4ab223e0484891f1b3f1a8120583/artifacts
+end_time: 1715321648500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e67e4ab223e0484891f1b3f1a8120583
+run_name: abrasive-mouse-62
+run_uuid: e67e4ab223e0484891f1b3f1a8120583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715321639499
+status: 3
+tags: []
+user_id: root

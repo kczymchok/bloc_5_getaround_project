@@ -1,0 +1,15 @@
+artifact_uri: file:///home/app/mlruns/886008468840540086/a98a4fcb46304a76b2f3d70167333ddf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '886008468840540086'
+lifecycle_stage: active
+run_id: a98a4fcb46304a76b2f3d70167333ddf
+run_name: marvelous-eel-724
+run_uuid: a98a4fcb46304a76b2f3d70167333ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715350318154
+status: 1
+tags: []
+user_id: unknown

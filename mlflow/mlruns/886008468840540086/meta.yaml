@@ -1,0 +1,6 @@
+artifact_location: file:///home/app/mlruns/886008468840540086
+creation_time: 1715350318145
+experiment_id: '886008468840540086'
+last_update_time: 1715350318145
+lifecycle_stage: active
+name: GetAround_car_rental_price_predictor
